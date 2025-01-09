@@ -1,6 +1,6 @@
 [
   {
-    "bookId": "101",
+    "bookId": 101,
     "bookName": "The Silent Patient",
     "author": "Alex Michaelides",
     "image": "https://i.ibb.co.com/fCGWnPq/the-silent-patient.png",
@@ -13,7 +13,7 @@
     "yearOfPublishing": 2019
   },
   {
-    "bookId": "102",
+    "bookId": 102,
     "bookName": "Educated",
     "author": "Tara Westover",
     "image": "https://i.ibb.co.com/5sMv50x/educated.jpg",
@@ -26,7 +26,7 @@
     "yearOfPublishing": 2018
   },
   {
-    "bookId": "103",
+    "bookId": 103,
     "bookName": "Atomic Habits",
     "author": "James Clear",
     "image": "https://i.ibb.co.com/ydGdD8Q/atomic-habits.jpg",
@@ -39,7 +39,7 @@
     "yearOfPublishing": 2018
   },
   {
-    "bookId": "104",
+    "bookId": 104,
     "bookName": "The Alchemist",
     "author": "Paulo Coelho",
     "image": "https://i.ibb.co.com/9cm8Bch/the-alchemist.jpg",
@@ -52,7 +52,7 @@
     "yearOfPublishing": 1988
   },
   {
-    "bookId": "105",
+    "bookId": 105,
     "bookName": "Becoming",
     "author": "Michelle Obama",
     "image": "https://i.ibb.co.com/gySz31x/becoming.jpg",
@@ -65,7 +65,7 @@
     "yearOfPublishing": 2018
   },
   {
-    "bookId": "106",
+    "bookId": 106,
     "bookName": "Where the Crawdads Sing",
     "author": "Delia Owens",
     "image": "https://i.ibb.co.com/1bFsrxp/where-the-crawdads-sing.jpg",
