@@ -1,0 +1,112 @@
+{
+  "estates": [
+    {
+      "id": 1,
+      "estate_title": "Luxury Apartment in Downtown",
+      "image": "https://i.ibb.co.com/Rg0fsnP/property1.png",
+      "segment_name": "Residential",
+      "description": "This luxury apartment offers an amazing view of the city skyline. Located in the heart of downtown, this property is perfect for those who enjoy city living with all amenities close by. The apartment features 3 spacious bedrooms, 2 bathrooms, a modern kitchen, and a comfortable living room. Enjoy premium facilities such as a rooftop garden, a private gym, and a swimming pool. The design is contemporary, with high-end finishes throughout, including marble flooring and smart home technology. With excellent transport links, this apartment is ideal for professionals and families alike.",
+      "price": "$1,500,000",
+      "status": "sale",
+      "area": "2200 sq ft",
+      "location": "Downtown City, NY",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen", "Gym", "Rooftop Garden"]
+    },
+    {
+      "id": 2,
+      "estate_title": "Seafront Villa with Private Beach",
+      "image": "https://i.ibb.co.com/pJM6Jh3/property2.png",
+      "segment_name": "Residential",
+      "description": "This stunning seafront villa provides unparalleled views of the ocean and has direct access to a private beach. The property features 5 bedrooms, 4 bathrooms, a large living room with panoramic windows, and a gourmet kitchen with top-of-the-line appliances. The villa is surrounded by lush landscaping, ensuring privacy while offering a serene environment. An infinity pool, hot tub, and home theater system are just some of the luxury amenities included. This villa represents the ultimate in comfort and exclusivity.",
+      "price": "$5,000,000",
+      "status": "sale",
+      "area": "6000 sq ft",
+      "location": "Malibu, CA",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen", "Home Theater", "Private Beach"]
+    },
+    {
+      "id": 3,
+      "estate_title": "Modern Loft in Industrial District",
+      "image": "https://i.ibb.co.com/svQyKGj/property3.png",
+      "segment_name": "Commercial",
+      "description": "This stylish loft is located in an up-and-coming industrial district, making it an ideal space for a creative business or urban lifestyle. The open-plan design features exposed brick walls, large windows, and polished concrete floors, giving it an edgy, modern feel. The loft includes a full kitchen, a spacious living area, and a dedicated workspace for up to 10 people. The property is within walking distance to cafes, galleries, and transportation hubs, making it perfect for young professionals.",
+      "price": "$750,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Industrial District, Brooklyn, NY",
+      "facilities": ["Living Room", "Kitchen", "Workspace"]
+    },
+    {
+      "id": 4,
+      "estate_title": "Cozy Cottage in the Countryside",
+      "image": "https://i.ibb.co.com/p1yWzGD/property4.png",
+      "segment_name": "Residential",
+      "description": "Escape the hustle and bustle of city life with this charming countryside cottage. The house features 2 cozy bedrooms, a modern bathroom, a quaint kitchen, and a comfortable living room. The large backyard offers beautiful views of the surrounding hills, perfect for outdoor relaxation or entertaining guests. The property also includes a barn for storage and a small garden. If you're looking for a peaceful retreat with plenty of natural beauty, this cottage is a perfect choice.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "1200 sq ft",
+      "location": "Green Valley, VT",
+      "facilities": ["Living Room", "Kitchen", "Barn", "Garden"]
+    },
+    {
+      "id": 5,
+      "estate_title": "Penthouse with City Views",
+      "image": "https://i.ibb.co.com/LQPkM6V/property5.png",
+      "segment_name": "Residential",
+      "description": "Located in the city center, this penthouse offers stunning panoramic views of the skyline and surrounding areas. With 4 spacious bedrooms, 3 luxurious bathrooms, and an expansive open-plan living area, this apartment is designed for those who appreciate both style and comfort. The gourmet kitchen is equipped with high-end appliances, and the private rooftop terrace provides a perfect space for outdoor dining and relaxation. The building offers 24/7 concierge services and private parking.",
+      "price": "$2,800,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Central City, LA",
+      "facilities": ["Living Room", "Kitchen", "Rooftop Terrace", "Concierge", "Private Parking"]
+    },
+    {
+      "id": 6,
+      "estate_title": "Spacious Office Space for Rent",
+      "image": "https://i.ibb.co.com/5vrXc8r/property6.png",
+      "segment_name": "Commercial",
+      "description": "This large office space is available for rent in a prime business district. The space spans 4000 sq ft and is ideal for businesses looking for a modern, flexible workspace. It includes a large open office area, several private offices, meeting rooms, and a kitchen. The building offers excellent amenities including high-speed internet, 24/7 security, and a large parking garage. This office space is perfect for growing businesses that need both open space and privacy.",
+      "price": "$15,000/month",
+      "status": "rent",
+      "area": "4000 sq ft",
+      "location": "Business District, SF",
+      "facilities": ["Living Room", "Kitchen", "Meeting Rooms", "Parking Garage"]
+    },
+    {
+      "id": 7,
+      "estate_title": "Contemporary Loft for Rent",
+      "image": "https://i.ibb.co.com/BwTS4Zw/property7-png.png",
+      "segment_name": "Residential",
+      "description": "This modern loft is located in a trendy neighborhood, offering an ideal living space for those who enjoy urban living. The open layout includes a spacious living room, a fully equipped kitchen, and a large bedroom with walk-in closets. The loft also features high ceilings and large windows that allow for plenty of natural light. The property is within walking distance to shops, restaurants, and public transportation, making it the perfect home for professionals and creatives.",
+      "price": "$3,000/month",
+      "status": "rent",
+      "area": "1800 sq ft",
+      "location": "Trendy District, Chicago, IL",
+      "facilities": ["Living Room", "Kitchen", "Bedroom"]
+    },
+    {
+      "id": 8,
+      "estate_title": "Beachfront Condo with Ocean Views",
+      "image": "https://i.ibb.co.com/H2Nfg4q/property8-png.png",
+      "segment_name": "Residential",
+      "description": "This beachfront condo offers the ultimate coastal living experience. With 3 bedrooms, 2 bathrooms, and a spacious living room, it is perfect for families looking to enjoy the beach lifestyle. The condo features a modern kitchen with stainless steel appliances, as well as large windows that provide breathtaking views of the ocean. The building includes a fitness center, swimming pool, and a clubhouse, making it ideal for those who love both relaxation and recreation.",
+      "price": "$2,000,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Oceanfront, Miami, FL",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen", "Fitness Center", "Clubhouse"]
+    },
+    {
+      "id": 9,
+      "estate_title": "City Center Retail Space for Rent",
+      "image": "https://i.ibb.co.com/5h82PKL/property9-png.png",
+      "segment_name": "Commercial",
+      "description": "This retail space is located in the heart of the city, making it ideal for businesses looking to attract high foot traffic. The space features a large open area, a storage room, and a bathroom. The building provides access to modern facilities such as high-speed internet, central air conditioning, and 24/7 security. The location offers great visibility with plenty of shops and restaurants nearby, making it a prime spot for any retail or service-oriented business.",
+      "price": "$8,000/month",
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "City Center, NY",
+      "facilities": ["Living Room", "Storage Room", "Bathroom"]
+    }
+  ]
+}
