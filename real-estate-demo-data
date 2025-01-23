@@ -1,5 +1,4 @@
-{
-  "estates": [
+[
     {
       "id": 1,
       "estate_title": "Luxury Apartment in Downtown",
@@ -109,4 +108,3 @@
       "facilities": ["Living Room", "Storage Room", "Bathroom"]
     }
   ]
-}
